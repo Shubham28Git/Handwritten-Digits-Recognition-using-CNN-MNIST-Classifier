@@ -8,10 +8,3 @@ After the data cleaning phase, the image is converted into a feature vector usin
 
 I choose to build it with Keras API, I achieved 99.671% of accuracy with this CNN model, this whole model was developed using Python.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Code Developed by-**
-
-SHUBHAM KUMAR
-
-Currently persuing M.tech (IIT Kanpur)
